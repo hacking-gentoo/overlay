@@ -1,9 +1,9 @@
-name: Ebuild Tests
+name: Overlay QA
 
 on: [push]
 
 jobs:
-  tests:
+  repoman:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@master
