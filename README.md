@@ -1,5 +1,5 @@
 # Hacking Gentoo Overlay
-![Overlay QA](https://github.com/hacking-gentoo/overlay/workflows/Overlay%20QA/badge.svg)
+[![Overlay QA](https://github.com/hacking-gentoo/overlay/workflows/Overlay%20QA/badge.svg)](https://github.com/hacking-gentoo/overlay/actions?workflow=Overlay+QA)
 
 [Gentoo Linux](https://www.gentoo.org/get-started/about/) overlay containing additional ebuild files.
 
