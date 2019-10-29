@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<upstream>
+		<remote-id type="github">codecov/codecov-bash</remote-id>
+	</upstream>
+	<longdescription lang="en">
+		Upload reports to Codecov for almost every supported language.
+	</longdescription>
+</pkgmetadata>
