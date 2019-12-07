@@ -22,5 +22,5 @@ src_install() {
 	einstalldocs
 	dobin bin/*
 	doman share/man/man1/*.1
-	dodoc share/doc/*
+	dodoc share/doc/hub-doc/*.html
 }
