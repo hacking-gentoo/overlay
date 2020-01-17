@@ -1,2 +1,3 @@
 # requires systemd (masked on selinux)
 app-portage/gentoolbox
+dev-libs/github-action-lib
