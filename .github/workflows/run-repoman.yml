@@ -2,8 +2,14 @@ name: Overlay QA
 
 on:
   push:
+    branches:
+      - '**'
+    tags-ignore:
+      - '*.*'
     paths-ignore:
       - 'README.md'
+      - 'LICENSE'
+      - '.github/**'
   schedule:
     - cron: "0 6 * * 1"
 
